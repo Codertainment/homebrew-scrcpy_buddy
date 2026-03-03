@@ -2,8 +2,7 @@ cask "scrcpy-buddy" do
   version "1.0.5"
   sha256 "a8cb8fadc1ff950dafde5ecd9a872482ed58cc7ba40e8b1897d69661db00751f"
 
-  url "https://github.com/Codertainment/scrcpy_buddy/releases/download/v#{version}/scrcpy.buddy.#{version}.dmg",
-      verified: "github.com/Codertainment/scrcpy_buddy/"
+  url "https://github.com/Codertainment/scrcpy_buddy/releases/download/v#{version}/scrcpy.buddy.#{version}.dmg"
   name "scrcpy buddy"
   desc "Clean, minimalist GUI wrapper for scrcpy"
   homepage "https://github.com/Codertainment/scrcpy_buddy"
