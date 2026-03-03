@@ -1,17 +1,9 @@
-# Codertainment Tap
+# scrcpy-buddy Tap
 
-## How do I install these formulae?
+## How to install
 
-`brew install codertainment/tap/<formula>`
-
-Or `brew tap codertainment/tap` and then `brew install <formula>`.
-
-Or, in a `brew bundle` `Brewfile`:
-
-```ruby
-tap "codertainment/tap"
-brew "<formula>"
-```
+1. Add the tap 🚰: `brew tap Codertainment/scrcpy_buddy`
+2. Install: `brew install scrcpy-buddy`
 
 ## Documentation
 
