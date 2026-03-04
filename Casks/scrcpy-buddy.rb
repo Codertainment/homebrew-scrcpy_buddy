@@ -1,6 +1,6 @@
 cask "scrcpy-buddy" do
   version "1.0.5"
-  sha256 "sha256:7a00bbbead4c6751cd2c2d7b00414e296218a5784dd6dcbb86df8eb04d8e386a"
+  sha256 "7a00bbbead4c6751cd2c2d7b00414e296218a5784dd6dcbb86df8eb04d8e386a"
 
   url "https://github.com/Codertainment/scrcpy_buddy/releases/download/v#{version}/scrcpy.buddy.#{version}.dmg"
   name "scrcpy buddy"
