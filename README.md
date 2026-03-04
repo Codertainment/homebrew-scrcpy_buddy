@@ -3,7 +3,7 @@
 ## How to install
 
 1. Add the tap 🚰: `brew tap Codertainment/scrcpy_buddy`
-2. Install: `brew install scrcpy-buddy`
+2. Install: `brew install scrcpy_buddy`
 
 ## Documentation
 
